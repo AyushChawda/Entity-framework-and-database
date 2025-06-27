@@ -1,4 +1,4 @@
-Change the connection String 
+
 for migration use the command 
 
 add-migration EntityFramworkCreateDb
